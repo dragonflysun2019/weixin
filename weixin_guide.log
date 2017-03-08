@@ -1,0 +1,1 @@
+2017-03-02 18:41:55 [com.javen.weixin.controller.WeixinMsgController]-[ERROR] [main] (APPConfig.java:142) ->jdbc:mysql://localhost:3306/apex?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull root root123 
